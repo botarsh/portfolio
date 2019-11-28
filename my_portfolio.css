@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+/***** nav bar *****/
+nav{
+    background-color: azure;
+    
+}
+nav ul {
+    display: flex;
+    text-align: center;
+    margin-left: 610px;
+}
+ 
+nav ul li{
+    text-decoration: none;
+    margin: 15px 20px;
+    padding: 5px;
+    list-style: none;
+}
+
+li a{
+    text-decoration: none;
+    color: black;
+    font-size: 19px;
+}
